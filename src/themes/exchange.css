@@ -478,7 +478,7 @@ color: #3EBC94;
 }
 
 .pagoTotalLabel{
-    font-family: Titillium Web !important;
+    font-family: DM Sans !important;
     font-style: normal !important; 
     font-weight: bold !important;
     font-size: 22px !important;
@@ -492,7 +492,7 @@ color: #3EBC94;
 }
 
 .numerolabel{
-    font-family: Titillium Web !important;
+    font-family: DM Sans !important;
     font-style: normal !important;
     font-weight: bold !important;
     font-size: 22px !important;
@@ -507,7 +507,7 @@ color: #3EBC94;
 }
 
 .sumatoria input{
-    font-family: Titillium Web !important;
+    font-family: DM Sans !important;
     font-style: normal !important;
     font-weight: bold !important;
     font-size: 16px !important;
@@ -516,7 +516,7 @@ color: #3EBC94;
     color: #002563 !important;
 }
 .sumatoria p{
-    font-family: Titillium Web !important;
+    font-family: DM Sans !important;
     font-style: normal !important;
     font-weight: bold !important;
     font-size: 16px !important;
@@ -526,7 +526,7 @@ color: #3EBC94;
 }
 
 .visualizarTitulo{
-font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: bold;
 font-size: 22px;
@@ -536,7 +536,7 @@ color: #002563;
 }
 
 .visualizarDate{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: 600;
 font-size: 10px;
@@ -548,7 +548,7 @@ padding-left: 2% !important;
 }
 
 .visualizarImprimir{
-    font-family: Titillium Web  !important;
+    font-family: DM Sans !important;
     font-style: normal  !important;
     font-weight: 600  !important;
     font-size: 10px  !important;
@@ -564,7 +564,7 @@ padding-left: 2% !important;
 }
 
 .visualizarSubtitulo{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: 600;
 font-size: 10px;
@@ -575,7 +575,7 @@ color: #002563;
 }
 
 .visualizarTituloNum{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: bold;
 font-size: 22px;
@@ -586,7 +586,7 @@ color: #3EBC94;
 }
 
 .visualizarDetalleCliente{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: bold;
 font-size: 14px;
@@ -600,7 +600,7 @@ font-weight: normal;
 }
 
 .visualizarDetalleLabel{
-font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
@@ -651,7 +651,7 @@ margin-top: 1% !important;
 }
 
 .textDiasRestantes{
-font-family: Titillium Web;
+    font-family: DM Sans !important;
 font-style: normal;
 font-weight: bold;
 font-size: 16px !important;
@@ -669,7 +669,7 @@ color: #F5B458;
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.4px;
-    font-family: Titillium Web !important;
+    font-family: DM Sans !important;
   }
 
   .alertError{

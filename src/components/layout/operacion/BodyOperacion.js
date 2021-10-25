@@ -24,13 +24,13 @@ const SimpleAccordion = () => {
 
     const handleChange = (value) => setPage(Number(value.currentTarget.outerText));
 
-    if (compras.length === 0) return <AlertUtils TYPE={"Error"} CLASS={'error'} LABEL={"No contiene compras realizadas"} />;
+    if (compras.length === 0) return <AlertUtils TYPE={"error"} CLASS={'error'} LABEL={"No contiene compras realizadas"} />;
 
     return (
         <Fragment>
             <Grid style={{ 'width': '100%' }}>
                 <Grid item xs={12}>
-                    <h1>Mis operaciones</h1>
+                    <h1 className='MuiTypography-h6'>Mis operaciones</h1>
                 </Grid>
 
                 {_.map(compras.slice((page - 1) * itemsPerPage, page * itemsPerPage), itemCO => (

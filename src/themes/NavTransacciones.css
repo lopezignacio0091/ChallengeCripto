@@ -12,7 +12,7 @@
 }
 
 .NavBarTransaccion h5{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -23,7 +23,7 @@
 }
 
 .NavBarTransaccion span{
-    font-family: Titillium Web;
+    font-family: DM Sans !important;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
